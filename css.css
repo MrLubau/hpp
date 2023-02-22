@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(2, 65, 54);
+    
+}
+h1 {
+    color: rgb(0, 180, 69);
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+
+}
+h2 {
+    color: rgb(0, 180, 69);
+    font-size: 40px;    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.home {
+    color:rgb(0, 180, 69)}
+    .home {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+            font-size: 40px;  
+            text-decoration: none;
+            position: relative;
+            left: 0px;
+    }
+    .novinky { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+            font-size: 40px;  
+            text-decoration: none;
+            position: relative;
+            left: 0px;
+            color:rgb(0, 180, 69)}
+         
+    .ateam {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+                font-size: 40px;  
+                text-decoration: none;
+                    position: relative;
+                    left: 0px;
+                color:rgb(0, 180, 69)}
+
+    .table-menu { 
+        background-color: rgb(2, 82, 22);
+        position: relative;
+        left: 100px;
+        bottom: 35px;
+        }
+        .table-novinky {
+            background-color: rgb(2, 82, 22);
+            
+        }
+        .novinka {
+            color: rgb(0, 180, 69);}
+            .autor {
+                color: rgb(0, 180, 69);
+                position: relative;
+                left: 200px;                
+                }
+        .logo {
+            position: relative;
+            bottom: 330px;
+            
+
+        }
+        .kontakt {
+            color: chartreuse;
+            text-decoration: none;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        
+
+    
